@@ -35,7 +35,6 @@ data = {
     'name': NAME,
     'type': 'A',
     'id': RECORD_ID,
-    'proxied': True,
     'comment': 'Updated automatically via script'
 }
 ```

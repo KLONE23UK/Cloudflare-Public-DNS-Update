@@ -22,7 +22,7 @@ Run the script and you'll see the DNS record has changed
 
 ```
 » python3 main.py
-DNS record changed to <public ip>
+DNS record changed for <NAME> to <public ip>
 ```
 
 ## Additions
